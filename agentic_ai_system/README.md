@@ -1,7 +1,7 @@
 
 # AIAutopilot_Agentic_AI
 
->>>>>>> 1938c852ea9f9cd5decd4f65789ffa6c87b062af
+
 # 🛡️ Agentic AI System for IT Requests
 
 This project is a FastAPI-based microservice that intelligently handles natural-language IT support requests using an agentic AI architecture. It simulates LLM-powered agents to perform diagnostics, generate automation scripts, and draft emails, with built-in support for approval flows and task status tracking.
@@ -169,14 +169,7 @@ Covers:
 
 ---
 
-## 🗺️ Architecture Diagram
 
-
-```
-=======
-![Architecture](https://github.com/user-attachments/assets/683f1289-b5fb-4553-b341-a2f02ebc8a9b)
-
->>>>>>> 1938c852ea9f9cd5decd4f65789ffa6c87b062af
 graph TD
     A[User Request] --> B[FastAPI API Layer]
     B --> C[CoordinatorAgent]
