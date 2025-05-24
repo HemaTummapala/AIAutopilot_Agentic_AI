@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # AIAutopilot_Agentic_AI
 
 >>>>>>> 1938c852ea9f9cd5decd4f65789ffa6c87b062af
@@ -172,10 +171,8 @@ Covers:
 
 ## 🗺️ Architecture Diagram
 
-<<<<<<< HEAD
-See included architecture_diagram.png file or embed the Mermaid diagram in README:
 
-```mermaid
+```
 =======
 ![Architecture](https://github.com/user-attachments/assets/683f1289-b5fb-4553-b341-a2f02ebc8a9b)
 
